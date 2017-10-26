@@ -24,7 +24,7 @@ This was the first challenge of session 1 where you were asked to build a simple
 The `calc.py` script takes three inputs from the user; 2 numbers and an operation. The operation can be `add`, `sub`, `mult`, `div`, `+`, `-`, `/`, `*` or `exit`. The conditional statements us the `or` operator so that, for example the code
 ```python
 print(add(first_number, second_number))
-```
+```fucked it
 is run if the user enters either `and` or `+` as the operation input.
 
 Different functions are called based on the operation the user inputs. The program is contained within a `while` loop so that multiple calculations can be performed consecutively.
